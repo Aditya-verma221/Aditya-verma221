@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya-verma221
 - 👀 I’m interested in DIY Electronics, IoT based projects, website desgin & video editing/animation ;)
-- 🌱 I’m currently learning Python 3, IoT etc..
+- 🌱 I’m currently learning Python 3, IoT, c++ etc..
 - 💞️ I’m looking to collaborate on everything that I'm interested in 👆👆👆
 - 📫 How to reach me- aadityaverma221@gmail.com
 
